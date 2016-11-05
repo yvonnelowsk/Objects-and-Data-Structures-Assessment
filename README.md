@@ -1,2 +1,2 @@
-# Objects-and-Data-Structures-Assessment
+# Python Assessments
 Python assessments
